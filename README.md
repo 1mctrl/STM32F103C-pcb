@@ -36,7 +36,7 @@ A custom PCB project for the STM32F103C microcontroller, designed using KiCad.
 
 ## 🛠 Software
 
-- Designed with [KiCad 7.x](https://kicad.org/)
+- Designed with [KiCad ](https://kicad.org/)
 
 ---
 
