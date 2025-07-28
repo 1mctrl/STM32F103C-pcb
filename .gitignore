@@ -7,7 +7,7 @@
 
 # Backup ZIPs
 stm-backups/
-*.zip
+
 
 # KiCad cache/info
 fp-info-cache
