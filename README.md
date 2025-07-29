@@ -44,5 +44,6 @@ A custom PCB project for the STM32F103C microcontroller, designed using KiCad.
 
 The `stm32f103c-gerbers.zip` archive contains all files required for PCB manufacturing (e.g., JLCPCB, PCBWay).
 
+> ⚠️ No sponsorships, affiliate links, or promotional mentions are accepted in this repository.
 ---
 
